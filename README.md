@@ -1,4 +1,5 @@
 # demo
 This is my first git repository
 <br>
-author-Gunjan soni
+Author-Gunjan soni(student)
+
